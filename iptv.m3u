@@ -110,13 +110,13 @@ https://cntv.sbs/tv?auth=2310201855&id=fjse
 #EXTINF:-1,tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://epg.112114.xyz/logo/浙江少儿.png" group-title="少儿",浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1,tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://epg.112114.xyz/logo/青春动漫.png" group-title="少儿",青春动漫
-https://cntv.sbs/tv?auth=2310201855&id=qcdm
+https://live.metshop.top/bestv.php?id=qcdm8m/8000000
 #EXTINF:-1,tvg-id="宝宝动画" tvg-name="宝宝动画" tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png" group-title="少儿",宝宝动画
-https://cntv.sbs/tv?auth=2310201855&id=bbdh
+https://live.metshop.top/bestv.php?id=bbdh8m/8000000
 #EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="少儿",哈哈炫动
-https://cntv.sbs/tv?auth=2310201855&id=hhxd
+https://live.metshop.top/bestv.php?id=hhxd8m/8000000
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="少儿",动漫秀场
-https://cntv.sbs/tv?auth=2310201855&id=dmxc
+https://live.metshop.top/bestv.php?id=dmxc8m/8000000
 #EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://epg.112114.xyz/logo/湖北综合.png" group-title="湖北",湖北综合HD
 http://192.168.50.1:3232/udp/239.69.1.42:9892
 #EXTINF:-1,tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://epg.112114.xyz/logo/湖北影视.png" group-title="湖北",湖北影视HD
