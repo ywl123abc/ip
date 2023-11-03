@@ -140,7 +140,7 @@ http://192.168.50.1:3232/udp/239.69.1.146:10512
 #EXTINF:-1,tvg-id="孝感综合高清" tvg-name="孝感综合高清" tvg-logo="https://epg.112114.xyz/logo/孝感综合.png" group-title="湖北",孝感综合高清
 http://192.168.50.1:3232/udp/239.69.1.229:11016
 #EXTINF:-1,tvg-id="铁齿铜牙纪晓岚" tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://epg.112114.xyz/logo/铁齿铜牙纪晓岚.png" group-title="网络",铁齿铜牙纪晓岚
-https://www.goodiptv.club/huya/11342396
+http://lu1.cc/tv/php/huya.php?id=11342396
 #EXTINF:-1,tvg-id="电影_星爷" tvg-name="电影_星爷" tvg-logo="https://epg.112114.xyz/logo/周星驰.png" group-title="网络",电影_星爷
 http://lu1.cc/tv/php/huya.php?id=11342412
 #EXTINF:-1,tvg-id="电影_英叔" tvg-name="电影_英叔" tvg-logo="https://epg.112114.xyz/logo/林正英.png" group-title="网络",电影_英叔
