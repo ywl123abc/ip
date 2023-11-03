@@ -117,6 +117,10 @@ https://cntv.sbs/tv?auth=2310201855&id=bbdh
 https://cntv.sbs/tv?auth=2310201855&id=hhxd
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="少儿",动漫秀场
 https://cntv.sbs/tv?auth=2310201855&id=dmxc
+#EXTINF:-1,tvg-id="重庆少儿" tvg-name="重庆少儿" tvg-logo="https://epg.112114.xyz/logo/重庆少儿.png" group-title="少儿",重庆少儿
+http://113.207.84.200/session/3ec8a6f8-7a35-11ee-8422-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8?token=b47f1f75729599e4700d9e931c81a629_1699094107_1699094107
+#EXTINF:-1,tvg-id="宁波少儿" tvg-name="宁波少儿" tvg-logo="https://epg.112114.xyz/logo/宁波少儿.png" group-title="少儿",宁波少儿
+http://liveplay.nbtv.cn/live/nbtv5_md.m3u8?auth_key=1699010476-0-0-9e7c5376d3c6389404c11f42b034104e
 #EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://epg.112114.xyz/logo/湖北综合.png" group-title="湖北",湖北综合HD
 http://192.168.50.1:3232/udp/239.69.1.42:9892
 #EXTINF:-1,tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://epg.112114.xyz/logo/湖北影视.png" group-title="湖北",湖北影视HD
