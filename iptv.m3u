@@ -106,17 +106,17 @@ http://192.168.50.1:3232/udp/239.253.156.188:9208
 #EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="少儿",金鹰卡通HD
 http://192.168.50.1:3232/udp/239.69.1.248:11130
 #EXTINF:-1,tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://epg.112114.xyz/logo/福建少儿.png" group-title="少儿",福建少儿
-https://cntv.sbs/tv?auth=2310201855&id=fjse
+https://cntv.sbs/tv?auth=202311030915&id=fjse
 #EXTINF:-1,tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://epg.112114.xyz/logo/浙江少儿.png" group-title="少儿",浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1,tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://epg.112114.xyz/logo/青春动漫.png" group-title="少儿",青春动漫
-https://cntv.sbs/tv?auth=2310201855&id=qcdm
+https://cntv.sbs/tv?auth=202311030915&id=qcdm
 #EXTINF:-1,tvg-id="宝宝动画" tvg-name="宝宝动画" tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png" group-title="少儿",宝宝动画
-https://cntv.sbs/tv?auth=2310201855&id=bbdh
+https://cntv.sbs/tv?auth=202311030915&id=bbdh
 #EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="少儿",哈哈炫动
-https://cntv.sbs/tv?auth=2310201855&id=hhxd
+https://cntv.sbs/tv?auth=202311030915&id=hhxd
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="少儿",动漫秀场
-https://cntv.sbs/tv?auth=2310201855&id=dmxc
+https://cntv.sbs/tv?auth=202311030915&id=dmxc
 #EXTINF:-1,tvg-id="重庆少儿" tvg-name="重庆少儿" tvg-logo="https://epg.112114.xyz/logo/重庆少儿.png" group-title="少儿",重庆少儿
 http://113.207.84.200/session/3ec8a6f8-7a35-11ee-8422-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8?token=b47f1f75729599e4700d9e931c81a629_1699094107_1699094107
 #EXTINF:-1,tvg-id="宁波少儿" tvg-name="宁波少儿" tvg-logo="https://epg.112114.xyz/logo/宁波少儿.png" group-title="少儿",宁波少儿
