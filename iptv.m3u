@@ -105,18 +105,12 @@ http://192.168.50.1:3232/udp/239.69.1.127:10400
 http://192.168.50.1:3232/udp/239.253.156.188:9208
 #EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="少儿",金鹰卡通HD
 http://192.168.50.1:3232/udp/239.69.1.248:11130
-#EXTINF:-1,tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://epg.112114.xyz/logo/福建少儿.png" group-title="少儿",福建少儿
-https://cntv.lat/tv?auth=231110&id=fjse
+#EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://live.fanmingming.com/tv/优优宝贝.png" group-title="少儿",优优宝贝
+https://cntv.lat/tv/live.php?auth=231110&id=youxi
 #EXTINF:-1,tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://epg.112114.xyz/logo/浙江少儿.png" group-title="少儿",浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1,tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://epg.112114.xyz/logo/青春动漫.png" group-title="少儿",青春动漫
-https://cntv.lat/tv?auth=231110&id=qcdm
-#EXTINF:-1,tvg-id="宝宝动画" tvg-name="宝宝动画" tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png" group-title="少儿",宝宝动画
-https://cntv.lat/tv?auth=231110&id=bbdh
-#EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="少儿",哈哈炫动
-https://cntv.lat/tv?auth=231110&id=hhxd
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="少儿",动漫秀场
-https://cntv.lat/tv?auth=231110&id=dmxc
+https://cntv.lat/tv/live.php?auth=231110&id=dmxcHD
 #EXTINF:-1,tvg-id="重庆少儿" tvg-name="重庆少儿" tvg-logo="https://epg.112114.xyz/logo/重庆少儿.png" group-title="少儿",重庆少儿
 http://cntv.lat/tv/live.php?auth=231110&id=cqseHD
 #EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://live.fanmingming.com/tv/新动漫.png" group-title="少儿",新动漫
