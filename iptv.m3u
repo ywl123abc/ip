@@ -107,6 +107,8 @@ http://192.168.50.1:3232/udp/239.253.156.188:9208
 http://192.168.50.1:3232/udp/239.69.1.248:11130
 #EXTINF:-1,tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://epg.112114.xyz/logo/浙江少儿.png" group-title="少儿",浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1,tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="https://epg.112114.xyz/logo/南京少儿.png" group-title="少儿",南京少儿
+http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 #EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://epg.112114.xyz/logo/湖北综合.png" group-title="湖北",湖北综合HD
 http://192.168.50.1:3232/udp/239.69.1.42:9892
 #EXTINF:-1,tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://epg.112114.xyz/logo/湖北影视.png" group-title="湖北",湖北影视HD
@@ -127,6 +129,10 @@ http://192.168.50.1:3232/udp/239.69.1.148:10524
 http://192.168.50.1:3232/udp/239.69.1.146:10512
 #EXTINF:-1,tvg-id="孝感综合高清" tvg-name="孝感综合高清" tvg-logo="https://epg.112114.xyz/logo/孝感综合.png" group-title="湖北",孝感综合高清
 http://192.168.50.1:3232/udp/239.69.1.229:11016
+#EXTINF:-1,tvg-id="斗鱼电影" tvg-name="斗鱼电影" tvg-logo="" group-title="网络",斗鱼电影
+http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+#EXTINF:-1,tvg-id="斗鱼电影2" tvg-name="斗鱼电影2" tvg-logo="" group-title="网络",斗鱼电影2
+http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 #EXTINF:-1,tvg-id="铁齿铜牙纪晓岚" tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://epg.112114.xyz/logo/铁齿铜牙纪晓岚.png" group-title="网络",铁齿铜牙纪晓岚
 http://43.128.40.42:198/虎牙直播/huya.php?id=11342396
 #EXTINF:-1,tvg-id="电影_星爷" tvg-name="电影_星爷" tvg-logo="https://epg.112114.xyz/logo/周星驰.png" group-title="网络",电影_星爷
