@@ -105,16 +105,8 @@ http://192.168.50.1:3232/udp/239.69.1.127:10400
 http://192.168.50.1:3232/udp/239.253.156.188:9208
 #EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="少儿",金鹰卡通HD
 http://192.168.50.1:3232/udp/239.69.1.248:11130
-#EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://live.fanmingming.com/tv/优优宝贝.png" group-title="少儿",优优宝贝
-https://cntv.lat/tv/live.php?auth=231110&id=youxi
 #EXTINF:-1,tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://epg.112114.xyz/logo/浙江少儿.png" group-title="少儿",浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="少儿",动漫秀场
-https://cntv.lat/tv/live.php?auth=231110&id=dmxcHD
-#EXTINF:-1,tvg-id="重庆少儿" tvg-name="重庆少儿" tvg-logo="https://epg.112114.xyz/logo/重庆少儿.png" group-title="少儿",重庆少儿
-http://cntv.lat/tv/live.php?auth=231110&id=cqseHD
-#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://live.fanmingming.com/tv/新动漫.png" group-title="少儿",新动漫
-http://cntv.lat/tv/live.php?auth=231110&id=dongman
 #EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://epg.112114.xyz/logo/湖北综合.png" group-title="湖北",湖北综合HD
 http://192.168.50.1:3232/udp/239.69.1.42:9892
 #EXTINF:-1,tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://epg.112114.xyz/logo/湖北影视.png" group-title="湖北",湖北影视HD
@@ -136,73 +128,73 @@ http://192.168.50.1:3232/udp/239.69.1.146:10512
 #EXTINF:-1,tvg-id="孝感综合高清" tvg-name="孝感综合高清" tvg-logo="https://epg.112114.xyz/logo/孝感综合.png" group-title="湖北",孝感综合高清
 http://192.168.50.1:3232/udp/239.69.1.229:11016
 #EXTINF:-1,tvg-id="铁齿铜牙纪晓岚" tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://epg.112114.xyz/logo/铁齿铜牙纪晓岚.png" group-title="网络",铁齿铜牙纪晓岚
-http://lu1.cc/tv/php/huya.php?id=11342396
+http://43.128.40.42:198/虎牙直播/huya.php?id=11342396
 #EXTINF:-1,tvg-id="电影_星爷" tvg-name="电影_星爷" tvg-logo="https://epg.112114.xyz/logo/周星驰.png" group-title="网络",电影_星爷
-http://lu1.cc/tv/php/huya.php?id=11342412
+http://43.128.40.42:198/虎牙直播/huya.php?id=11342412
 #EXTINF:-1,tvg-id="电影_英叔" tvg-name="电影_英叔" tvg-logo="https://epg.112114.xyz/logo/林正英.png" group-title="网络",电影_英叔
-http://lu1.cc/tv/php/huya.php?id=11342421
+http://43.128.40.42:198/虎牙直播/huya.php?id=11342421
 #EXTINF:-1,tvg-id="电影_发哥" tvg-name="电影_发哥" tvg-logo="https://epg.112114.xyz/logo/周润发.png" group-title="网络",电影_发哥
-http://lu1.cc/tv/php/huya.php?id=11342387
+http://43.128.40.42:198/虎牙直播/huya.php?id=11342387
 #EXTINF:-1,tvg-id="电影_成龙" tvg-name="电影_成龙" tvg-logo="https://epg.112114.xyz/logo/成龙.png" group-title="网络",电影_成龙
-http://lu1.cc/tv/php/huya.php?id=11342386
+http://43.128.40.42:198/虎牙直播/huya.php?id=11342386
 #EXTINF:-1,tvg-id="电影_王晶" tvg-name="电影_王晶" tvg-logo="https://epg.112114.xyz/logo/王晶.png" group-title="网络",电影_王晶
-http://lu1.cc/tv/php/huya.php?id=11602058
+http://43.128.40.42:198/虎牙直播/huya.php?id=11602058
 #EXTINF:-1,tvg-id="电影_沈腾" tvg-name="电影_沈腾" tvg-logo="https://epg.112114.xyz/logo/沈腾.png" group-title="网络",电影_沈腾
-http://lu1.cc/tv/php/huya.php?id=11601968
+http://43.128.40.42:198/虎牙直播/huya.php?id=11601968
 #EXTINF:-1,tvg-id="电影_黄渤" tvg-name="电影_黄渤" tvg-logo="https://epg.112114.xyz/logo/黄渤.png" group-title="网络",电影_黄渤
-http://lu1.cc/tv/php/huya.php?id=11352876
+http://43.128.40.42:198/虎牙直播/huya.php?id=11352876
 #EXTINF:-1,tvg-id="电影_李连杰" tvg-name="电影_李连杰" tvg-logo="https://epg.112114.xyz/logo/李连杰.png" group-title="网络",电影_李连杰
-http://lu1.cc/tv/php/huya.php?id=11342390
+http://43.128.40.42:198/虎牙直播/huya.php?id=11342390
 #EXTINF:-1,tvg-id="电影_甄子丹" tvg-name="电影_甄子丹" tvg-logo="https://epg.112114.xyz/logo/甄子丹.png" group-title="网络",电影_甄子丹
-http://lu1.cc/tv/php/huya.php?id=11352935
+http://43.128.40.42:198/虎牙直播/huya.php?id=11352935
 #EXTINF:-1,tvg-id="电影_洪金宝" tvg-name="电影_洪金宝" tvg-logo="https://epg.112114.xyz/logo/洪金宝.png" group-title="网络",电影_洪金宝
-http://lu1.cc/tv/php/huya.php?id=11279251
+http://43.128.40.42:198/虎牙直播/huya.php?id=11279251
 #EXTINF:-1,tvg-id="电影_刘德华" tvg-name="电影_刘德华" tvg-logo="https://epg.112114.xyz/logo/刘德华.png" group-title="网络",电影_刘德华
-http://lu1.cc/tv/php/huya.php?id=11342424
+http://43.128.40.42:198/虎牙直播/huya.php?id=11342424
 #EXTINF:-1,tvg-id="电影_徐峥黄渤" tvg-name="电影_徐峥黄渤" tvg-logo="https://epg.112114.xyz/logo/徐峥黄渤.png" group-title="网络",电影_徐峥黄渤
-http://lu1.cc/tv/php/huya.php?id=11352876
+http://43.128.40.42:198/虎牙直播/huya.php?id=11352876
 #EXTINF:-1,tvg-id="电影_强森" tvg-name="电影_强森" tvg-logo="https://epg.112114.xyz/logo/电影_强森.png" group-title="网络",电影_强森
-http://lu1.cc/tv/php/huya.php?id=21059581
+http://43.128.40.42:198/虎牙直播/huya.php?id=21059581
 #EXTINF:-1,tvg-id="电影_漫威" tvg-name="电影_漫威" tvg-logo="https://epg.112114.xyz/logo/电影_漫威.png" group-title="网络",电影_漫威
-http://lu1.cc/tv/php/huya.php?id=11602034
+http://43.128.40.42:198/虎牙直播/huya.php?id=11602034
 #EXTINF:-1,tvg-id="电影_宇宙" tvg-name="电影_宇宙" tvg-logo="https://epg.112114.xyz/logo/电影_宇宙.png" group-title="网络",电影_宇宙
-http://lu1.cc/tv/php/huya.php?id=11342428
+http://43.128.40.42:198/虎牙直播/huya.php?id=11342428
 #EXTINF:-1,tvg-id="电影_怪兽" tvg-name="电影_怪兽" tvg-logo="https://epg.112114.xyz/logo/电影_怪兽.png" group-title="网络",电影_怪兽
-http://lu1.cc/tv/php/huya.php?id=21059577
+http://43.128.40.42:198/虎牙直播/huya.php?id=21059577
 #EXTINF:-1,tvg-id="电影_武侠" tvg-name="电影_武侠" tvg-logo="https://epg.112114.xyz/logo/电影_武侠.png" group-title="网络",电影_武侠
-http://lu1.cc/tv/php/huya.php?id=11342427
+http://43.128.40.42:198/虎牙直播/huya.php?id=11342427
 #EXTINF:-1,tvg-id="电影_警匪" tvg-name="电影_警匪" tvg-logo="https://epg.112114.xyz/logo/电影_警匪.png" group-title="网络",电影_警匪
-http://lu1.cc/tv/php/huya.php?id=11352886
+http://43.128.40.42:198/虎牙直播/huya.php?id=11352886
 #EXTINF:-1,tvg-id="电影_罪犯" tvg-name="电影_罪犯" tvg-logo="https://epg.112114.xyz/logo/电影_罪犯.png" group-title="网络",电影_罪犯
-http://lu1.cc/tv/php/huya.php?id=11352962
+http://43.128.40.42:198/虎牙直播/huya.php?id=11352962
 #EXTINF:-1,tvg-id="电影_枪战" tvg-name="电影_枪战" tvg-logo="https://epg.112114.xyz/logo/电影_枪战.png" group-title="网络",电影_枪战
-http://lu1.cc/tv/php/huya.php?id=21059579
+http://43.128.40.42:198/虎牙直播/huya.php?id=21059579
 #EXTINF:-1,tvg-id="电影_海盗" tvg-name="电影_海盗" tvg-logo="https://epg.112114.xyz/logo/电影_海盗.png" group-title="网络",电影_海盗
-http://lu1.cc/tv/php/huya.php?id=21059595
+http://43.128.40.42:198/虎牙直播/huya.php?id=21059595
 #EXTINF:-1,tvg-id="电影_赛车" tvg-name="电影_赛车" tvg-logo="https://epg.112114.xyz/logo/电影_赛车.png" group-title="网络",电影_赛车
-http://lu1.cc/tv/php/huya.php?id=11279247
+http://43.128.40.42:198/虎牙直播/huya.php?id=11279247
 #EXTINF:-1,tvg-id="电影_推荐" tvg-name="电影_推荐" tvg-logo="https://epg.112114.xyz/logo/电影_推荐.png" group-title="网络",电影_推荐
-http://lu1.cc/tv/php/huya.php?id=11602041
+http://43.128.40.42:198/虎牙直播/huya.php?id=11602041
 #EXTINF:-1,tvg-id="电影_救援" tvg-name="电影_救援" tvg-logo="https://epg.112114.xyz/logo/电影_救援.png" group-title="网络",电影_救援
-http://lu1.cc/tv/php/huya.php?id=21059594
+http://43.128.40.42:198/虎牙直播/huya.php?id=21059594
 #EXTINF:-1,tvg-id="电影_热血" tvg-name="电影_热血" tvg-logo="https://epg.112114.xyz/logo/电影_热血.png" group-title="网络",电影_热血
-http://lu1.cc/tv/php/huya.php?id=11352934
+http://43.128.40.42:198/虎牙直播/huya.php?id=11352934
 #EXTINF:-1,tvg-id="电影_盗墓" tvg-name="电影_盗墓" tvg-logo="https://epg.112114.xyz/logo/电影_盗墓.png" group-title="网络",电影_盗墓
-http://lu1.cc/tv/php/huya.php?id=21059552
+http://43.128.40.42:198/虎牙直播/huya.php?id=21059552
 #EXTINF:-1,tvg-id="电影_贺岁" tvg-name="电影_贺岁" tvg-logo="https://epg.112114.xyz/logo/电影_贺岁.png" group-title="网络",电影_贺岁
-http://lu1.cc/tv/php/huya.php?id=11601971
+http://43.128.40.42:198/虎牙直播/huya.php?id=11601971
 #EXTINF:-1,tvg-id="电影_玄幻" tvg-name="电影_玄幻" tvg-logo="https://epg.112114.xyz/logo/电影_玄幻.png" group-title="网络",电影_玄幻
-http://lu1.cc/tv/php/huya.php?id=11342414
+http://43.128.40.42:198/虎牙直播/huya.php?id=11342414
 #EXTINF:-1,tvg-id="电影_谍战" tvg-name="电影_谍战" tvg-logo="https://epg.112114.xyz/logo/电影_谍战.png" group-title="网络",电影_谍战
-http://lu1.cc/tv/php/huya.php?id=21059585
+http://43.128.40.42:198/虎牙直播/huya.php?id=21059585
 #EXTINF:-1,tvg-id="电影_战争" tvg-name="电影_战争" tvg-logo="https://epg.112114.xyz/logo/电影_战争.png" group-title="网络",电影_战争
-http://lu1.cc/tv/php/huya.php?id=21059592
+http://43.128.40.42:198/虎牙直播/huya.php?id=21059592
 #EXTINF:-1,tvg-id="电影_喜剧" tvg-name="电影_喜剧" tvg-logo="https://epg.112114.xyz/logo/电影_喜剧.png" group-title="网络",电影_喜剧
-http://lu1.cc/tv/php/huya.php?id=11352877
+http://43.128.40.42:198/虎牙直播/huya.php?id=11352877
 #EXTINF:-1,tvg-id="电影_港片" tvg-name="电影_港片" tvg-logo="https://epg.112114.xyz/logo/电影_港片.png" group-title="网络",电影_港片
-http://lu1.cc/tv/php/huya.php?id=11602043
+http://43.128.40.42:198/虎牙直播/huya.php?id=11602043
 #EXTINF:-1,tvg-id="电影_国产" tvg-name="电影_国产" tvg-logo="https://epg.112114.xyz/logo/电影_国产.png" group-title="网络",电影_国产
-http://lu1.cc/tv/php/huya.php?id=11352973
+http://43.128.40.42:198/虎牙直播/huya.php?id=11352973
 #EXTINF:-1,tvg-id="埋堆堆1" tvg-name="埋堆堆1" tvg-logo="https://epg.112114.xyz/logo/埋堆堆1.png" group-title="网络",埋堆堆1
 http://43.128.40.42:198/虎牙直播/huya.php?id=23865152
 #EXTINF:-1,tvg-id="埋堆堆2" tvg-name="埋堆堆2" tvg-logo="https://epg.112114.xyz/logo/埋堆堆2.png" group-title="网络",埋堆堆2
@@ -241,10 +233,4 @@ http://43.128.40.42:198/虎牙直播/huya.php?id=23865080
 http://43.128.40.42:198/虎牙直播/huya.php?id=23734246
 #EXTINF:-1,tvg-id="埋堆堆19" tvg-name="埋堆堆19" tvg-logo="https://epg.112114.xyz/logo/埋堆堆19.png" group-title="网络",埋堆堆19
 http://43.128.40.42:198/虎牙直播/huya.php?id=23728660
-#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="网络",CHC高清电影
-http://hls.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
-#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="网络",CHC动作电影
-http://hls.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
-#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="网络",CHC家庭影院
-http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
 
