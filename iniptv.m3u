@@ -135,5 +135,5 @@ http://gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV&area=
 http://gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CETV-3/G_CETV-3.m3u8?p=GITV&area=GD_CUCC&$2M SD
 #EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="其他",中国教育4台
 http://gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CETV-4/G_CETV-4.m3u8?p=GITV&area=GD_CUCC&$2M SD
-#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="北京",北京纪实科教
+#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="其他",北京纪实科教
 http://gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8?p=GITV&area=GD_CUCC&$4M FHD
