@@ -109,6 +109,10 @@ http://192.168.50.1:3232/udp/239.69.1.248:11130
 http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1,tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="https://epg.112114.xyz/logo/南京少儿.png" group-title="少儿",南京少儿
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+#EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://epg.112114.xyz/logo/优漫卡通.png" group-title="少儿",优漫卡通
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_YOUMAN/G_YOUMAN.m3u8?p=GITV&area=GD_CUCC&$2M SD
+#EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="少儿",哈哈炫动
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_XUANDONG/G_XUANDONG.m3u8?p=GITV&area=GD_CUCC&$2M SD
 #EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://epg.112114.xyz/logo/湖北综合.png" group-title="湖北",湖北综合HD
 http://192.168.50.1:3232/udp/239.69.1.42:9892
 #EXTINF:-1,tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://epg.112114.xyz/logo/湖北影视.png" group-title="湖北",湖北影视HD
