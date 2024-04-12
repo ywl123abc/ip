@@ -47,7 +47,7 @@
       "tag": "proxy",
       "server": "166.1.190.117",
       "server_port": 443,
-      "up_mbps": 30,
+      "up_mbps": 100,
       "down_mbps": 100,
       "password": "qq123456",
       "tls": {
