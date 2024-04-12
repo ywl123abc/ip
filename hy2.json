@@ -44,7 +44,7 @@
   "outbounds": [
     {
       "type": "hysteria2",
-      "tag": "proxy",
+      "tag": "美国洛杉矶",
       "server": "166.1.190.117",
       "server_port": 443,
       "up_mbps": 30,
